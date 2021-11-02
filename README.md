@@ -22,9 +22,10 @@ The following project was created in a 3-course series class that demonstrated o
 - SQL Server database design and Programing
 - Creating Visual Studio Windows Forms 
 - Creating Visual Studio Windows Integrated APplication and Reports
-- Planning, Designing, and Modeling the DataMart using Visual Studio, Viso, Word, and Excel
-- Building the DataMart using SSMS
-- Extracting, Transforming, and Loading the Datamart using SSIS
+- Planning, Designing, and Modeling the DataMart using Visual Studio, Viso, Word, and Excel:[CHillIce Solution Documentation.docx](https://github.com/morganajohnson/Projects/files/7464069/CHillIce.Solution.Documentation.docx)
+![image](https://user-images.githubusercontent.com/91151009/139953485-f434fda3-d678-4cc1-bb3e-3d25281f2ee5.png)[ChillIce.xlsx](https://github.com/morganajohnson/Projects/files/7464080/ChillIce.xlsx)
+- Building the DataMart using SSMS: [DM Build.txt](https://github.com/morganajohnson/Projects/files/7464087/DM.Build.txt)
+- Extracting, Transforming, and Loading the Datamart using SSIS:![image](https://user-images.githubusercontent.com/91151009/139954030-556559f2-f2d1-4bca-a64e-2998e30425ae.png)![image](https://user-images.githubusercontent.com/91151009/139954093-b93a0281-0470-4b4e-8a3e-fd5f56bd6577.png)
 - Developing Tabular and Multidimensional Analysis from the DataMart using Excel
 - Creating Reports and Dashboards from the Datamart using Power BI
 
