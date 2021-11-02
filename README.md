@@ -15,7 +15,7 @@ Through this data, I was able to predict and come to the conclusion that happine
 
 ## Sales Organization Database Information 
 The following project was created in a 3-course series class that demonstrated our ability to use fictional data to do the following
-- Design, and Model a database using an ERD, to fit a business case model: 
+- Design, and Model a database using an ERD, to fit a business case model: [Chill Ice DataWarehouse Documentation.docx](https://github.com/morganajohnson/Projects/files/7464057/Chill.Ice.DataWarehouse.Documentation.docx)
 - Implementing a database, including loading data into the database: 
 - Database Querying using SQL
 - Delivering the final database
